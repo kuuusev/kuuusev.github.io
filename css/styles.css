@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+
+#bg{
+    position:fixed;
+    top: 0;
+    left: 0;
+    min-width:100%;
+    min-height:100%;
+}
+
+.overlay{
+    position:fixed;
+    top:0;
+    min-width:100%;
+    min-height:100%;
+}
+
+.title{
+    margin:auto;
+    width:33%;
+    background-color: black;
+    text-align: center;
+    line-height: 50px;
+}
+
+.social{
+    position: fixed;
+    bottom:10px;
+    left:10px;
+}
+
+.creds{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: black;
+}
+
+h1{
+    font-size: 48px;
+    color: white;
+    font-family: 'EB Garamond', serif;
+}
+
+p{
+    font-size:11px;
+    color:white;
+}
